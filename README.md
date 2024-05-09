@@ -181,7 +181,7 @@ Additional Action: Creates a new user with the provided registration data.<br>
 ## Testing
 
 The test suite runs 11 test cases to test the working of each API endpoint and the calculation of each performance metric.<br>
-The file vendor/tests.py has thoroughly mentioned the sample data used for testing as well as the expected results. Please make changes accordingly if you want to run any further tests.<br>
+The file vendors/tests.py has thoroughly mentioned the sample data used for testing as well as the expected results. Please make changes accordingly if you want to run any further tests.<br>
 For running the test suite, go to the main directory which has manage.py in the terminal and run the following command:<br>
 python manage.py test<br>
 
